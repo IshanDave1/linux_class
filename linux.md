@@ -1,6 +1,9 @@
 # Linux :
 
-commands :
+
+change from formatting branch
+
+#commands :
 
 **date**
 
@@ -35,7 +38,7 @@ commands have options , these options are
 | -t | time |
 | -s | size |
 
-wildcard : 
+##wildcard : 
 
 “*” File* → match any number or chars 
 
@@ -76,11 +79,11 @@ cp -r folder1 folder2 #copies all the contents of a folder into another
 
 3 components for processes :
 
-stdin → 0
+**stdin** → 0
 
-stdout → 1
+**stdout** → 1
 
-stderr → 2
+**stderr** → 2
 
 1. using the > symbol.
 
